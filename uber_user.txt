@@ -1,0 +1,66 @@
+[+]password=123456&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=admin&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=123456789&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=12345678&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=111111&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user}&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={username}&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user_name}&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={admin_name}&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user}123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={username}123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user_name}123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={admin_name}123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user}123456&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={username}123456&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user_name}123456&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={admin_name}123456&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user}@123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={username}@123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={user_name}@123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password={admin_name}@123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=000000&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=11111111&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=00000000&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=123123123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=1234567890&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=88888888&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=111111111&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=147258369&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=987654321&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=aaaaaaaa&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=1111111111&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=xiazhili&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=66666666&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=11223344&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=a123456789&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=1qaz2wsx&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=789456123&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=qqqqqqqq&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=87654321&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=password&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=000000000&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=qwertyuiop&email=aa 		{[u'\u7535\u5b50\u4fe1\u7bb1\u6216\u5bc6\u7801\u65e0\u6548'] not found}
+[+]password=123456&email=aa 		[Found html]
+[+]password=admin&email=aa 		[Found html]
+[+]password=123456789&email=aa 		[Found html]
+[+]password=12345678&email=aa 		[Found html]
+[+]password=111111&email=aa 		[Found html]
+[+]password={user}&email=aa 		[Found html]
+[+]password={username}&email=aa 		[Found html]
+[+]password={user_name}&email=aa 		[Found html]
+[+]password={admin_name}&email=aa 		[Found html]
+[+]password={user}123&email=aa 		[Found html]
+[+]password={username}123&email=aa 		[Found html]
+[+]password={user_name}123&email=aa 		[Found html]
+[+]password={admin_name}123&email=aa 		[Found html]
+[+]password={user}123456&email=aa 		[Found html]
+[+]password={username}123456&email=aa 		[Found html]
+[+]password={user_name}123456&email=aa 		[Found html]
+[+]password={admin_name}123456&email=aa 		[Found html]
+[+]password={user}@123&email=aa 		[Found html]
+[+]password={username}@123&email=aa 		[Found html]
+[+]password={user_name}@123&email=aa 		[Found html]
+[+]password={admin_name}@123&email=aa 		[Found html]
+[+]password=000000&email=aa 		[Found html]
+[+]password=11111111&email=aa 		[Found html]
